@@ -1,6 +1,6 @@
 # Classic machine learning models
 ### Introduction
-In this work we use classic machine learning models - K-NN, Multiclass Logistic Regression, SVM and Random Forest to make predictions.
+In this work we build classic machine learning models - K-NN, Multiclass Logistic Regression, SVM and Random Forest to make predictions.
 
 The [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) is used.
 
